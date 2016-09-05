@@ -1,3 +1,9 @@
-while true{
+
+def branch()
+{
 	print("BRANCH GUY")
+	branch()
 }
+
+
+branch()
