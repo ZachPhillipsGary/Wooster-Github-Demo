@@ -1,3 +1,9 @@
 THIS IS THE NEW BRANCH GUY
 
+<<<<<<< HEAD
+Zach Phillips-Gary
+
+Blaire Bosley
+=======
 POR QUE
+>>>>>>> ZachPhillipsGary/master
